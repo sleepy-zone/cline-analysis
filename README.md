@@ -1,4 +1,4 @@
-<p align="center"><img alt="logo" src="https://cline.bot/assets/images/home/hero/hero-character.png" width="80" /></p>
+<p align="center"><img alt="logo" src="https://cline.bot/assets/images/home/hero/hero-character.webp" width="80" /></p>
 
 <h1 align="center">
   <strong>Cline 源码浅析 </strong>
@@ -10,7 +10,7 @@
 	<img src="https://raw.githubusercontent.com/sleepy-zone/mp-pic-bed/main/2025/09/04/1756966035854-a10012bc-3fd7-41b8-8d66-0c6b761582a6.png" />
 </p>
 
-✍️ 系列文章首发于我的公众号 **【前端生存指南】**，持续更新中，欢迎关注以获取最新内容。
+✍️ 系列文章首发于我的公众号 **【VibeCode RealLife】**，持续更新中，欢迎关注以获取最新内容。
 
 <p align="center"><img src="https://camo.githubusercontent.com/e29c39af8c4d7763dc27b237bfd067ccba4c27c135ce1abe1cb8180d7897527d/68747470733a2f2f636c6f75642d6d696e6170702d34373830332e636c6f75642e6966616e7275736572636f6e74656e742e636f6d2f317476414d3638437672783362664c522e6a7067" width="240" /></p>
 
